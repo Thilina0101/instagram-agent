@@ -1,0 +1,5 @@
+node_modules/
+.env
+# Generated plans, reports and demo data stay local
+output/
+*.log
